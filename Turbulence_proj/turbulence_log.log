@@ -1,0 +1,232 @@
+Pipeline starting!
+Loaded 2292 raw reports
+Filtered to 6 hub reports
+Inserted 6 rows into PostgreSQL
+Pipeline completed!
+Pipeline starting!
+Loaded 2297 raw reports
+Filtered to 6 hub reports
+Inserted 6 rows into PostgreSQL
+Pipeline completed!
+Pipeline starting!
+Loaded 2299 raw reports
+Filtered to 6 hub reports
+Inserted 6 rows into PostgreSQL
+Pipeline completed!
+Pipeline job date: 2026-06-29 09:08:55.637798
+Pipeline starting!
+Loaded 2393 raw reports
+Filtered to 29 hub reports
+Inserted 29 rows into PostgreSQL
+Pipeline completed!
+Pipeline job date: 2026-07-01 12:00:02.807855
+Pipeline starting!
+Loaded 2202 raw reports
+Filtered to 33 hub reports
+Inserted 33 rows into PostgreSQL
+Pipeline completed!
+Pipeline job date: 2026-07-03 12:00:03.197608
+Pipeline starting!
+Loaded 2342 raw reports
+Filtered to 21 hub reports
+Inserted 21 rows into PostgreSQL
+Pipeline completed!
+Pipeline job date: 2026-07-03 17:03:39.253131
+Pipeline starting!
+Loaded 964 raw reports
+Filtered to 18 hub reports
+Inserted 18 rows into PostgreSQL
+Pipeline completed!
+/opt/anaconda3/bin/python3: can't open file '/Users/isabella/Documents/Learning/Jupyter/Turbulence_proj/pipeline.py': [Errno 2] No such file or directory
+/opt/anaconda3/bin/python3: can't open file '/Users/isabella/Documents/Learning/Jupyter/Turbulence_proj/pipeline.py': [Errno 2] No such file or directory
+/opt/anaconda3/bin/python3: can't open file '/Users/isabella/Documents/Learning/Jupyter/Turbulence_proj/pipeline.py': [Errno 2] No such file or directory
+/opt/anaconda3/bin/python3: can't open file '/Users/isabella/Documents/Learning/Jupyter/Turbulence_proj/pipeline.py': [Errno 2] No such file or directory
+/opt/anaconda3/bin/python3: can't open file '/Users/isabella/Documents/Learning/Jupyter/Turbulence_proj/pipeline.py': [Errno 2] No such file or directory
+/opt/anaconda3/bin/python3: can't open file '/Users/isabella/Documents/Learning/Jupyter/Turbulence_proj/pipeline.py': [Errno 2] No such file or directory
+/opt/anaconda3/bin/python3: can't open file '/Users/isabella/Documents/Learning/Jupyter/Turbulence_proj/pipeline.py': [Errno 2] No such file or directory
+Pipeline job date: 2026-07-05 14:19:01.751572
+Pipeline starting!
+Loaded 1770 raw reports
+Filtered to 52 hub reports
+Inserted 52 rows into PostgreSQL
+Pipeline completed!
+Pipeline job date: 2026-07-05 14:20:02.198904
+Pipeline starting!
+Loaded 1779 raw reports
+Filtered to 52 hub reports
+Inserted 52 rows into PostgreSQL
+Pipeline completed!
+Pipeline job date: 2026-07-05 14:21:02.503037
+Pipeline starting!
+Loaded 1757 raw reports
+Filtered to 48 hub reports
+Inserted 48 rows into PostgreSQL
+Pipeline completed!
+Pipeline job date: 2026-07-05 14:22:02.014740
+Pipeline starting!
+Loaded 1734 raw reports
+Filtered to 48 hub reports
+Inserted 48 rows into PostgreSQL
+Pipeline completed!
+Pipeline job date: 2026-07-05 14:23:01.544687
+Pipeline starting!
+Loaded 1740 raw reports
+Filtered to 49 hub reports
+Inserted 49 rows into PostgreSQL
+Pipeline completed!
+Pipeline job date: 2026-07-05 14:24:01.876081
+Pipeline starting!
+Loaded 1731 raw reports
+Filtered to 49 hub reports
+Inserted 49 rows into PostgreSQL
+Pipeline completed!
+Pipeline job date: 2026-07-05 14:25:02.267737
+Pipeline starting!
+Loaded 1727 raw reports
+Filtered to 49 hub reports
+Inserted 49 rows into PostgreSQL
+Pipeline completed!
+Pipeline job date: 2026-07-05 14:26:01.649031
+Pipeline starting!
+Loaded 1718 raw reports
+Filtered to 48 hub reports
+Inserted 48 rows into PostgreSQL
+Pipeline completed!
+Pipeline job date: 2026-07-05 14:27:02.269353
+Pipeline starting!
+Loaded 1721 raw reports
+Filtered to 49 hub reports
+Inserted 49 rows into PostgreSQL
+Pipeline completed!
+Pipeline job date: 2026-07-05 14:28:01.707056
+Pipeline starting!
+Loaded 1722 raw reports
+Filtered to 49 hub reports
+Inserted 49 rows into PostgreSQL
+Pipeline completed!
+Pipeline job date: 2026-07-05 14:29:02.408336
+Pipeline starting!
+Loaded 1729 raw reports
+Filtered to 49 hub reports
+Inserted 49 rows into PostgreSQL
+Pipeline completed!
+Pipeline job date: 2026-07-05 14:30:02.797475
+Pipeline starting!
+Loaded 1729 raw reports
+Filtered to 49 hub reports
+Inserted 49 rows into PostgreSQL
+Pipeline completed!
+Pipeline job date: 2026-07-05 14:31:02.231255
+Pipeline starting!
+Loaded 1730 raw reports
+Filtered to 47 hub reports
+Inserted 47 rows into PostgreSQL
+Pipeline completed!
+Pipeline job date: 2026-07-05 14:32:01.621654
+Pipeline starting!
+Loaded 1724 raw reports
+Filtered to 44 hub reports
+Inserted 44 rows into PostgreSQL
+Pipeline completed!
+Pipeline job date: 2026-07-05 14:33:02.092205
+Pipeline starting!
+Loaded 1721 raw reports
+Filtered to 46 hub reports
+Inserted 46 rows into PostgreSQL
+Pipeline completed!
+Pipeline job date: 2026-07-05 14:34:02.385294
+Pipeline starting!
+Loaded 1721 raw reports
+Filtered to 46 hub reports
+Inserted 46 rows into PostgreSQL
+Pipeline completed!
+Pipeline job date: 2026-07-05 14:35:01.784731
+Pipeline starting!
+Loaded 1694 raw reports
+Filtered to 43 hub reports
+Inserted 43 rows into PostgreSQL
+Pipeline completed!
+Pipeline job date: 2026-07-05 14:36:02.265336
+Pipeline starting!
+Loaded 1690 raw reports
+Filtered to 42 hub reports
+Inserted 42 rows into PostgreSQL
+Pipeline completed!
+Pipeline job date: 2026-07-05 14:37:01.691593
+Pipeline starting!
+Loaded 1679 raw reports
+Filtered to 39 hub reports
+Inserted 39 rows into PostgreSQL
+Pipeline completed!
+Pipeline job date: 2026-07-05 14:38:02.332339
+Pipeline starting!
+Loaded 1681 raw reports
+Filtered to 39 hub reports
+Inserted 39 rows into PostgreSQL
+Pipeline completed!
+Pipeline job date: 2026-07-05 14:39:01.808814
+Pipeline starting!
+Loaded 1669 raw reports
+Filtered to 39 hub reports
+Inserted 39 rows into PostgreSQL
+Pipeline completed!
+Pipeline job date: 2026-07-05 14:40:02.531332
+Pipeline starting!
+Loaded 1656 raw reports
+Filtered to 38 hub reports
+Inserted 38 rows into PostgreSQL
+Pipeline completed!
+Pipeline job date: 2026-07-05 14:41:01.835575
+Pipeline starting!
+Loaded 1645 raw reports
+Filtered to 37 hub reports
+Inserted 37 rows into PostgreSQL
+Pipeline completed!
+Pipeline job date: 2026-07-05 14:42:02.214809
+Pipeline starting!
+Loaded 1639 raw reports
+Filtered to 35 hub reports
+Inserted 35 rows into PostgreSQL
+Pipeline completed!
+Pipeline job date: 2026-07-05 14:43:02.077967
+Pipeline starting!
+Loaded 1640 raw reports
+Filtered to 33 hub reports
+Inserted 33 rows into PostgreSQL
+Pipeline completed!
+Pipeline job date: 2026-07-05 14:44:02.648048
+Pipeline starting!
+Loaded 1627 raw reports
+Filtered to 33 hub reports
+Inserted 33 rows into PostgreSQL
+Pipeline completed!
+Pipeline job date: 2026-07-05 14:45:02.041163
+Pipeline starting!
+Loaded 1622 raw reports
+Filtered to 32 hub reports
+Inserted 32 rows into PostgreSQL
+Pipeline completed!
+Pipeline job date: 2026-07-05 14:46:01.889183
+Pipeline starting!
+Loaded 1622 raw reports
+Filtered to 33 hub reports
+Inserted 33 rows into PostgreSQL
+Pipeline completed!
+Pipeline job date: 2026-07-05 14:47:02.354238
+Pipeline starting!
+Loaded 1608 raw reports
+Filtered to 33 hub reports
+Inserted 33 rows into PostgreSQL
+Pipeline completed!
+Pipeline job date: 2026-07-05 14:48:02.544082
+Pipeline starting!
+Loaded 1598 raw reports
+Filtered to 33 hub reports
+Inserted 33 rows into PostgreSQL
+Pipeline completed!
+Pipeline job date: 2026-07-05 14:49:02.020948
+Pipeline starting!
+Loaded 1589 raw reports
+Filtered to 33 hub reports
+Inserted 33 rows into PostgreSQL
+Pipeline completed!
